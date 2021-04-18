@@ -1,7 +1,7 @@
 [
     {
         "colorcode": "#FF0000",
-        "name": ""
+        "name": "yellow"
     },
     {
         "colorcode": "#00FFFF",
@@ -251,7 +251,7 @@
         "colorcode": "#000080",
         "name": "Navy Blue"
     },
-    {
+        {
         "colorcode": "#FF0000",
         "name": ""
     },
